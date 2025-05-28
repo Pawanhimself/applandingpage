@@ -1,0 +1,6 @@
+.mernImage {
+    background-image: url('mernImage.png');
+    background-repeat:no-repeat;
+    width: 90%;
+    color: white;
+}
