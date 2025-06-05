@@ -4,3 +4,12 @@
     width: 90%;
     color: white;
 }
+
+#jumbotron {
+    background-image: url('https://www.codewithrandom.com/wp-content/uploads/2022/11/15-Bootstrap-login-forms32.png');
+    background-size: cover;
+}
+
+.download-btn {
+    width: 145px;
+}
